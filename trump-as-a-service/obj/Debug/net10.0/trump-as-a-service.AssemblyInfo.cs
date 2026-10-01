@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trump-as-a-service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b44bc67f81817353971f5b9078dde0327687c731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e7924cded4c0a7ac510ffc0c3100ae8b1a6d0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("trump-as-a-service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trump-as-a-service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
