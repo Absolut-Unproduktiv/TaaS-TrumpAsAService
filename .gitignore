@@ -131,3 +131,9 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+
+# Blocking .idea folder and obj / bin folders for Rider IDE
+.idea/
+obj/
+bin/
