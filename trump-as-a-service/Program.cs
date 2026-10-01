@@ -1,7 +1,6 @@
-﻿
-namespace trump_as_a_service;
+﻿namespace trump_as_a_service;
 
-public class Program()
+public class Program
 {
     public static void Main()
     {
