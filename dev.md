@@ -12,3 +12,9 @@ Verify installation with `dotnet --version`.
 cd trump-as-a-service
 dotnet run
 ```
+
+## Building .exe
+
+``` PowerShell
+dotnet publish -c Release -r win-x64 -p:PublishAot=true
+```
