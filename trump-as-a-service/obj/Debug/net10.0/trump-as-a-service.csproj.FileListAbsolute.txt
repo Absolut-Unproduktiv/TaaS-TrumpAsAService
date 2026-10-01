@@ -1,0 +1,15 @@
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\bin\Debug\net10.0\trump-as-a-service.exe
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\bin\Debug\net10.0\trump-as-a-service.deps.json
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\bin\Debug\net10.0\trump-as-a-service.runtimeconfig.json
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\bin\Debug\net10.0\trump-as-a-service.dll
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\bin\Debug\net10.0\trump-as-a-service.pdb
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.AssemblyInfoInputs.cache
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.AssemblyInfo.cs
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.csproj.CoreCompileInputs.cache
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.sourcelink.json
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.dll
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\refint\trump-as-a-service.dll
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.pdb
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\trump-as-a-service.genruntimeconfig.cache
+D:\Dev\VSCode\11-Absolut_Unproduktiv\TaaS-TrumpAsAService\trump-as-a-service\obj\Debug\net10.0\ref\trump-as-a-service.dll
