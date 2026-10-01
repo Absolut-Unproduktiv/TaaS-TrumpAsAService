@@ -1,4 +1,4 @@
-# Developer Tips
+# Developer Guide
 
 ## Installing C#
 
